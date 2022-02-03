@@ -1,0 +1,11 @@
+APScheduler==3.6.3
+backports.zoneinfo==0.2.1
+cachetools==4.2.2
+certifi==2021.10.8
+python-telegram-bot==13.10
+pytz==2021.3
+pytz-deprecation-shim==0.1.0.post0
+six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
+tornado==6.1
+tzdata==2021.5
+tzlocal==4.1
