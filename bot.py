@@ -70,7 +70,7 @@ def input_text(update, context):
 
 if __name__ == '__main__':
 
-    updater = Updater(token='TOKEN', use_context='True')
+    updater = Updater(token='YOUR TOKEN', use_context='True')
 
     dp = updater.dispatcher
 
