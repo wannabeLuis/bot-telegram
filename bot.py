@@ -54,8 +54,6 @@ def send_qr(filename, chat):
     os.unlink(filename)
 
 
-
-
 def input_text(update, context):
 
     text = update.message.text
